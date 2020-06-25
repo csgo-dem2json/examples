@@ -1,9 +1,9 @@
 
-A small collection of examples for how to use `ghostanalysis.dem2json-events` JSON files.
+A small collection of examples for how to use `dem2json-events` JSON files.
 
 e.g. usage:
 
 ```
 npm install
-node kills.js natus-vincere-vs-astralis-m2-inferno.json
+node trades.js json/liquid-vs-evil-geniuses-m3-inferno.json
 ```
